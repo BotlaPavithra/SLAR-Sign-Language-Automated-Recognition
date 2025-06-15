@@ -1,6 +1,6 @@
 # Sign Language to Text Conversion
 
-![architecture](IMAGE/architecture.png)
+![architecture](IMAGES/architecture.png)
 
 ![Output Video](images/outputVideo_gif.gif)
 [YouTube](https://www.youtube.com/watch?v=Rd04XB6F0pU)
